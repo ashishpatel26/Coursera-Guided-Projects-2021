@@ -193,6 +193,29 @@ Use a ResNet-18 model and train it on a COVID-19 Radiography dataset. This datas
 
 ---
 
+## [15.Multiple Linear Regression with Scikit-learn](https://github.com/ashishpatel26/Coursera-Guided-Projects-2021/tree/main/Multiple%20Linear%20Regression%20with%20scikit-learn)
+
+---
+The data for this project consists of the very popular Advertising dataset to predict sales revenue based on advertising spending through media such as TV, radio, and newspaper.  By the end of this project, you will be able to: 
+
+- Build univariate and multivariate linear regression models using scikit-learn 
+- Perform Exploratory Data Analysis (EDA) and data visualization with seaborn 
+- Evaluate model fit and accuracy using numerical measures such as R² and RMSE 
+- Model interaction effects in regression using basic feature engineering techniques
+
+| Sr.No | Project                                      | Colab                                                        |
+| ----- | -------------------------------------------- | ------------------------------------------------------------ |
+| 1     | Multiple Linear Regression with scikit-learn | [![Open In Collab](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/ashishpatel26/Coursera-Guided-Projects-2021/blob/main/Multiple%20Linear%20Regression%20with%20scikit-learn/multiple-linear-regression.ipynb) |
+
+## [16.Image Super Resolution using Autoencoders](https://github.com/ashishpatel26/Coursera-Guided-Projects-2021/tree/main/Image%20Super%20Resolution%20Using%20Autoencoders%20in%20Keras)
+
+---
+ In this project, you’re going to learn what an autoencoder is, use Keras with Tensorflow as its backend to train your own autoencoder, and use this deep learning powered autoencoder to significantly enhance the quality of images. That is, our neural network will create high-resolution images from low-res source images.
+| Sr.No | Project                                    | Colab                                                        |
+| ----- | ------------------------------------------ | ------------------------------------------------------------ |
+| 1     | Image Super Resolutions using Autoencoders | [![Open In Collab](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/ashishpatel26/Coursera-Guided-Projects-2021/blob/main/Image%20Super%20Resolution%20Using%20Autoencoders%20in%20Keras/image_super_resolution.ipynb) |
+---
+
 Thanks for visiting
 
 ----
